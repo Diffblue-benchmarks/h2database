@@ -1,3 +1,4 @@
 branch: master
 language: java
 buildCmd: cd h2; mvn compile
+skipDifferentialAnalysis: true
